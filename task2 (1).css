@@ -1,0 +1,18 @@
+h1{
+    color:firebrick;
+    background-color:goldenrod;
+}
+*{
+    background-color: rgb(76, 35, 114);
+}
+p::first-letter
+{
+    font-size: 40px;
+    font-style: italic;
+}
+h1:hover
+{
+    color: rgb(122, 16, 16);
+    font-size: 30px;
+    text-align: center;
+}
